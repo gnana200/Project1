@@ -5,3 +5,6 @@ changed the file
 
 
 git branch1 changes
+
+
+Merge works
